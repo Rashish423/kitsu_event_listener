@@ -51,7 +51,7 @@ kitsu-event-listener
 
    ```bash
    git clone https://github.com/Rashish423/kitsu_event_listener.git
-   cd kitsu-event-listener
+   cd kitsu_event_listener
    ```
 
 2. Build the Docker image:
