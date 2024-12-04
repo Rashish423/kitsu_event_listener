@@ -50,7 +50,7 @@ kitsu-event-listener
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rashish423/kitsu-event-listener.git
+   git clone https://github.com/Rashish423/kitsu_event_listener.git
    cd kitsu-event-listener
    ```
 
